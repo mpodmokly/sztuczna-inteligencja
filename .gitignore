@@ -1,1 +1,3 @@
 .ipynb_checkpoints
+*.gz
+lab4/hotdog/
