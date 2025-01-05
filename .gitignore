@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 *.gz
 lab4/hotdog/
+lab5/question-context-classification/
+lab5/output/
