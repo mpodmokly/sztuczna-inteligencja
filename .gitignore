@@ -2,4 +2,6 @@
 *.gz
 lab4/hotdog/
 lab5/question-context-classification/
+lab5/question-answers-classification/
 lab5/output/
+lab5/output-qa/
